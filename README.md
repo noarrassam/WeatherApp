@@ -24,43 +24,19 @@ It’s a Weather app that search for a counrty through an json api and view the 
 
 ## Features
 
-## **Home Screen**
+## **Saved Countries**
 
-<img src="https://github.com/noarrassam/ChatApp/blob/main/Images/1.png" width="500" height="1000">
+<img src="https://github.com/noarrassam/WeatherApp/blob/main/Images/1.png" width="500" height="1000">
 
-## **Login Screen**
+## **Search Country**
 
-<img src="https://github.com/noarrassam/ChatApp/blob/main/Images/2.png" width="500" height="1000">
+<img src="https://github.com/noarrassam/WeatherApp/blob/main/Images/2.png" width="500" height="1000">
 
-## **SignUp Screen**
+## **Selected Country - Toronto**
 
-<img src="https://github.com/noarrassam/ChatApp/blob/main/Images/3.png" width="500" height="1000">
-
-
-## **Terms&Conditions**
-
-<img src="https://github.com/noarrassam/ChatApp/blob/main/Images/4.png" width="500" height="1000">
+<img src="https://github.com/noarrassam/WeatherApp/blob/main/Images/3.png" width="500" height="1000">
 
 
-## **Messages**
+## **Current Weather**
 
-<img src="https://github.com/noarrassam/ChatApp/blob/main/Images/5.png" width="500" height="1000">
-
-## **Message Title&Subtitle**
-
-<img src="https://github.com/noarrassam/ChatApp/blob/main/Images/6.png" width="500" height="1000">
-
-
-## **Chat**
-
-<img src="https://github.com/noarrassam/ChatApp/blob/main/Images/7.png" width="500" height="1000">
-
-## **User Info.**
-
-<img src="https://github.com/noarrassam/ChatApp/blob/main/Images/8.png" width="500" height="1000">
-
-## **Settings**
-
-<img src="https://github.com/noarrassam/ChatApp/blob/main/Images/9.png" width="500" height="1000">
-
-
+<img src="https://github.com/noarrassam/WeatherApp/blob/main/Images/4.png" width="500" height="1000">
