@@ -42,6 +42,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		F82682302651CF65000E605D /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 		F83541DD2583E48900125D90 /* WeatherService.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WeatherService.swift; sourceTree = "<group>"; };
 		F83541E22583E89600125D90 /* WeatherJSON.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WeatherJSON.swift; sourceTree = "<group>"; };
 		F87EC3122582C0C0007C7065 /* WeatherAPP.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = WeatherAPP.app; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -93,6 +94,8 @@
 		F87EC3092582C0C0007C7065 = {
 			isa = PBXGroup;
 			children = (
+				F8F3CB452651D871007F54AA /* Images */,
+				F82682302651CF65000E605D /* README.md */,
 				F87EC3142582C0C0007C7065 /* WeatherAPP */,
 				F87EC32E2582C0C1007C7065 /* WeatherAPPTests */,
 				F87EC3392582C0C1007C7065 /* WeatherAPPUITests */,
@@ -147,6 +150,13 @@
 				F87EC33C2582C0C1007C7065 /* Info.plist */,
 			);
 			path = WeatherAPPUITests;
+			sourceTree = "<group>";
+		};
+		F8F3CB452651D871007F54AA /* Images */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Images;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
