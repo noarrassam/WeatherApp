@@ -64,6 +64,7 @@
 		F87EC3602582E2DD007C7065 /* WeatherManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WeatherManager.swift; sourceTree = "<group>"; };
 		F87EC36B2582EDEE007C7065 /* WeatherData.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WeatherData.swift; sourceTree = "<group>"; };
 		F89227572585C1F300E01D87 /* DetailsViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DetailsViewController.swift; sourceTree = "<group>"; };
+		F8FAD3FE265814F8001CB431 /* License */ = {isa = PBXFileReference; lastKnownFileType = text; path = License; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -94,6 +95,7 @@
 		F87EC3092582C0C0007C7065 = {
 			isa = PBXGroup;
 			children = (
+				F8FAD3FE265814F8001CB431 /* License */,
 				F8F3CB452651D871007F54AA /* Images */,
 				F82682302651CF65000E605D /* README.md */,
 				F87EC3142582C0C0007C7065 /* WeatherAPP */,

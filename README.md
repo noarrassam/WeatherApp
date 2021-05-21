@@ -21,6 +21,11 @@ It’s a Weather app that search for a counrty through an json api and view the 
 * Icon Type Codable.
 * Asynchronously Thread.
 
+## License & Copyright
+
+© Noar Rassam
+
+Licensed under the [MIT License](License).
 
 ## Features
 
